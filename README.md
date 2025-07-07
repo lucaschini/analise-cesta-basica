@@ -45,7 +45,7 @@ O fluxo de trabalho deste projeto está dividido nas seguintes etapas principais
         * Gráficos e tabelas resumindo os principais insights da análise.
     * O dashboard proporciona uma interface amigável para explorar os dados e identificar tendências e anomalias de forma intuitiva.
 
-**O dashboard pode ser acessado neste link** *[Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYjJkNTNlOTQtNjQyZi00NzNlLTk0ZDYtNjFiMDk2ZmI5Nzg1IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9])*
+**O dashboard pode ser acessado neste link** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJkNTNlOTQtNjQyZi00NzNlLTk0ZDYtNjFiMDk2ZmI5Nzg1IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
 
 ## Resultados Atingidos
 
